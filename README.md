@@ -1,4 +1,5 @@
 安装方法：
+下载：<a href="https://github.com/39084891/fuckZhiHuiShu/archive/master.zip">点我</a> 然后解压。
 打开谷歌浏览器
 点击更多工具->扩展程序->点击右上角开发者模式->加载已解压的扩展程序->选择解压出来的文件夹->搞定
 
