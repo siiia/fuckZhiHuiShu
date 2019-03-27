@@ -24,6 +24,7 @@
 				//是否出现随机问题
 				if($('.popbtn_cancel').length==1){
 					console.log("出现随机测试");
+					$("#tmDialog_iframe").contents().find(".answerOption label")[0].click();
 					questionFlag.val("0");
 					var length = $('.popbtn_cancel').length;
 					$('.popbtn_cancel')[0].click();
