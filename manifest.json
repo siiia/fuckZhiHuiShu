@@ -14,7 +14,7 @@
 	] , 
 	"content_scripts": [ 
 		{ 
-			"matches": ["http://study.zhihuishu.com/learning*"], 
+			"matches": ["https://study.zhihuishu.com/learning*"], 
 			"js": ["jquery-1.8.3.min.js","fuck.js"] ,
 			"document_end":"document_end"
 		} 
